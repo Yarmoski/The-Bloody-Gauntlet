@@ -1,4 +1,5 @@
 #include "Arena.h"
+#include "globals.h"
 #include <random>
 #include <utility>
 #include <cstdlib>

@@ -3,8 +3,7 @@
 #ifndef ARENA
 #define ARENA
 
-#include "globals.h"
-#include "History.h" //???
+#include "History.h" 
 #include <string>
 class Player;
 class Vampire;

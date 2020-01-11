@@ -3,6 +3,8 @@
 #include "Arena.h"
 #include "Player.h"
 #include "Vampire.h"
+#include "History.h"
+#include "globals.h"
 
 
 ///////////////////////////////////////////////////////////////////////////

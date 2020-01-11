@@ -1,7 +1,7 @@
 #include "Arena.h"
+#include "History.h"
 #include "Vampire.h"
 #include "Player.h"
-#include "History.h"
 #include <iostream>
 using namespace std;
 
