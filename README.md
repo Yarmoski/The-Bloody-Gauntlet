@@ -3,6 +3,8 @@ An unfair duel between you and evil vampires. You will be pitted in an enclosed 
 
 # How to play
 Download the .exe and run it!
+## Dev Use
+Your solution should contain all header files and all .cpp files except for old_vampires.cpp.
 
 # Description
 At each turn, the user will select an action for the player to take: either move one step, drop a poisoned blood vial without moving, or check the game history. Unless the action was to check history, the player will take the action, and then each vampire will move one step in a random direction. If a vampire moves onto the grid point occupied by the player, the player dies from the vampire's bite. 
