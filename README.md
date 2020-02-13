@@ -1,5 +1,5 @@
 # The-Bloody-Gauntlet
-An unfair duel between you and evil vampires. You will be pitted in an enclosed box full of VAMPIRES. Use your bottomless pockets full of anti-vampire vials to destroy them all and be victorious! Or die an extremely dissatisfying death. 
+An unfair duel between you and evil vampires. You will be pitted in an enclosed box full of vampires. Use your bottomless pockets full of anti-vampire vials to destroy them all and be victorious! Or die an extremely dissatisfying death. 
 
 # How to play
 Download the .exe and run it!
